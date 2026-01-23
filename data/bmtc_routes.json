@@ -1,0 +1,258 @@
+[
+  {
+    "route": "15-E",
+    "stops": [
+      {"id": "Blr_Bst000872", "name": "Banashankari Bus Station", "x": 77.5518996884, "y": 12.9151999982},
+      {"id": "Blr_Bst000106", "name": "Kadirenahalli Cross", "x": 77.5672663489, "y": 12.913616668},
+      {"id": "Blr_Bst00015", "name": "Kadirenahalli Park", "x": 77.6086663189, "y": 12.9164666643},
+      {"id": "Blr_Bst00089", "name": "Devegowda Petrol Bunk", "x": 77.5857663338, "y": 12.9109999979},
+      {"id": "Blr_Bst0002", "name": "Kamakya Talkies", "x": 77.5613163528, "y": 12.9264999981},
+      {"id": "Blr_Bst00027", "name": "Janatha Bazar", "x": 77.5460163622, "y": 12.9281833283},
+      {"id": "Blr_Bst00026", "name": "Jn of Hosakerehalli Cross", "x": 77.5441996933, "y": 12.9297166683},
+      {"id": "Blr_Bst00024", "name": "Jn of Ring Road", "x": 77.5400830259, "y": 12.9330499983},
+      {"id": "Blr_Bst000125", "name": "Veerabhadranagar", "x": 77.5337663697, "y": 12.9378666684},
+      {"id": "Blr_Bst00025", "name": "Nayandahalli Cross", "x": 77.5441996933, "y": 12.9297166683},
+      {"id": "Blr_Bst00030", "name": "Kwality Biscuits", "x": 77.5291663725, "y": 12.9450333284},
+      {"id": "Blr_Bst00022", "name": "Bhel Gate", "x": 77.5367830314, "y": 12.949716665},
+      {"id": "Blr_Bst000126", "name": "Deepanjali Nagara Bmt-16", "x": 77.5371663679, "y": 12.9518833283},
+      {"id": "Blr_Bst000128", "name": "Vijayanagara Ttmc", "x": 77.5378996978, "y": 12.9719499983},
+      {"id": "Blr_Bst00033", "name": "Maruthi Mandira", "x": 77.5360663688, "y": 12.9676333283},
+      {"id": "Blr_Bst000101", "name": "Vijayanagara", "x": 77.5447330237, "y": 12.9739833283},
+      {"id": "Blr_Bst000108", "name": "Magadi Road Dasarahalli", "x": 77.5491163612, "y": 12.9819999982},
+      {"id": "Blr_Bst000113", "name": "Kamakshipalya", "x": 77.5543996885, "y": 13.0130666681},
+      {"id": "Blr_Bst00036", "name": "Summanahalli Magadi Road", "x": 77.5911996654, "y": 13.0090666678},
+      {"id": "Blr_Bst00039", "name": "Sunkadakatte", "x": 77.544016365, "y": 13.0264333282}
+    ]
+  },
+  {
+    "route": "201R",
+    "stops": [
+      {"id": "Blr_Bst000223", "name": "K.R. Hospital (Uttarahalli)", "x": 77.5457830253, "y": 12.9067666649},
+      {"id": "Blr_Bst000222", "name": "Uttarahalli Bank Colony", "x": 77.5484996904, "y": 12.9083999982},
+      {"id": "Blr_Bst000871", "name": "Chikkalasandra Bus Stand", "x": 77.5518996884, "y": 12.9151999982},
+      {"id": "Blr_Bst000870", "name": "Kathariguppe", "x": 77.5536996875, "y": 12.9237999982},
+      {"id": "Blr_Bst0001", "name": "Gowdana Palya", "x": 77.5585330176, "y": 12.9119333315},
+      {"id": "Blr_Bst0002", "name": "Mini Zoo (KIMS Hospital)", "x": 77.5613163528, "y": 12.9264999981},
+      {"id": "Blr_Bst000102", "name": "Indira Nursing Home", "x": 77.5645830142, "y": 12.9291333314},
+      {"id": "Blr_Bst00014", "name": "Basavanagudi Police Station", "x": 77.5799996716, "y": 12.9541999979},
+      {"id": "Blr_Bst00015", "name": "Gandhi Bazaar", "x": 77.6086663189, "y": 12.9164666643},
+      {"id": "Blr_Bst00016", "name": "Ramakrishna Ashrama", "x": 77.5968163267, "y": 12.9168499977},
+      {"id": "Blr_Bst00017", "name": "Bangalore High School", "x": 77.5889829952, "y": 12.9168833278},
+      {"id": "Blr_Bst00018", "name": "ChamarajapetMakkala Koota", "x": 77.570566347, "y": 12.921766668},
+      {"id": "Blr_Bst00019", "name": "K.R Market", "x": 77.5119163831, "y": 12.9794666686},
+      {"id": "Blr_Bst00020", "name": "Town Hall", "x": 77.5189163787, "y": 12.9585166685},
+      {"id": "Blr_Bst00021", "name": "St.Marthas Hospital Corporation", "x": 77.5320163711, "y": 12.9599999984},
+      {"id": "Blr_Bst00022", "name": "Mysore Bank", "x": 77.5367830314, "y": 12.949716665},
+      {"id": "Blr_Bst000874", "name": "Kempegowda Bus Station", "x": 77.6380163044, "y": 13.0260299972}
+    ]
+  },
+  {
+    "route": "335E",
+    "stops": [
+      {"id": "Blr_Bst000903", "name": "ITPL", "x": 77.7021468084, "y": 12.9567499964},
+      {"id": "Blr_Bst000902", "name": "Pattandur Agrahara Gate", "x": 77.6364996342, "y": 12.9612333273},
+      {"id": "Blr_Bst000901", "name": "Vaidehi Hospital", "x": 77.6161563186, "y": 12.9893733275},
+      {"id": "Blr_Bst000893", "name": "Graphite India", "x": 77.641382964, "y": 12.9545333305},
+      {"id": "Blr_Bst000881", "name": "Bhorka Steel", "x": 77.6503146237, "y": 12.9242749971},
+      {"id": "Blr_Bst000140", "name": "Singayyana Palya", "x": 77.6873662648, "y": 12.9913333299},
+      {"id": "Blr_Bst000137", "name": "Mahadevapura", "x": 77.7015662536, "y": 12.9683499964},
+      {"id": "Blr_Bst000135", "name": "B Narayanapura", "x": 77.6622829469, "y": 13.0111833269},
+      {"id": "Blr_Bst0006", "name": "KR Puram Railway Station", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst000794", "name": "Tin Factory", "x": 77.6691996116, "y": 12.9970333268},
+      {"id": "Blr_Bst0004", "name": "Bennigana Halli", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst000912", "name": "Srinivasapura", "x": 77.640122962, "y": 12.9784083272},
+      {"id": "Blr_Bst00032", "name": "NGEF", "x": 77.5093663809, "y": 12.9609666653},
+      {"id": "Blr_Bst0003", "name": "Binnamangala", "x": 77.5772996727, "y": 12.9177333313},
+      {"id": "Blr_Bst000916", "name": "Halasur", "x": 77.6264546414, "y": 12.9759249974},
+      {"id": "Blr_Bst000738", "name": "Trinity Circle", "x": 77.6198163125, "y": 12.9725111086},
+      {"id": "Blr_Bst000859", "name": "Corporation", "x": 77.5866996675, "y": 12.9682999978},
+      {"id": "Blr_Bst00020", "name": "Town Hall", "x": 77.5189163787, "y": 12.9585166685},
+      {"id": "Blr_Bst00034", "name": "KR Market", "x": 77.5347830295, "y": 12.9646999984}
+    ]
+  },
+  {
+    "route": "500K",
+    "stops": [
+      {"id": "Blr_Bst000884", "name": "Bommanahalli", "x": 77.6283013088, "y": 12.9077416674},
+      {"id": "Blr_Bst000883", "name": "Central Silk Board", "x": 77.6242163117, "y": 12.9144833274},
+      {"id": "Blr_Bst000147", "name": "BTM Layout", "x": 77.6376829624, "y": 12.9158833273},
+      {"id": "Blr_Bst0008", "name": "BTM Water Tank", "x": 77.6041329852, "y": 12.9166833277},
+      {"id": "Blr_Bst000103", "name": "Mico Layout", "x": 77.604449655, "y": 12.9165999976},
+      {"id": "Blr_Bst0006", "name": "Jayanagara 9th East Circle", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst0005", "name": "Ragigudda", "x": 77.5887163353, "y": 12.9169166678},
+      {"id": "Blr_Bst0004", "name": "Jayanagara 5th Block", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst0003", "name": "Sangam Circle", "x": 77.5772996727, "y": 12.9177333313},
+      {"id": "Blr_Bst000872", "name": "Banashankari Bus Station", "x": 77.5518996884, "y": 12.9151999982},
+      {"id": "Blr_Bst000223", "name": "K.R. Hospital (Uttarahalli)", "x": 77.5457830253, "y": 12.9067666649},
+      {"id": "Blr_Bst000222", "name": "Uttarahalli Bank Colony", "x": 77.5484996904, "y": 12.9083999982},
+      {"id": "Blr_Bst000871", "name": "Chikkalasandra Bus Stand", "x": 77.5518996884, "y": 12.9151999982}
+    ]
+  },
+  {
+    "route": "600F",
+    "stops": [
+      {"id": "Blr_Bst000691", "name": "Kengeri TTMC", "x": 77.4839663977, "y": 12.9103666688},
+      {"id": "Blr_Bst00017", "name": "Kengeri Police Station", "x": 77.5889829952, "y": 12.9168833278},
+      {"id": "Blr_Bst000186", "name": "Nice Road toll Kengeri", "x": 77.5881996644, "y": 12.8462333312},
+      {"id": "Blr_Bst00019", "name": "Rajarajeshwari Medical College", "x": 77.5119163831, "y": 12.9794666686},
+      {"id": "Blr_Bst00021", "name": "Anche Palya", "x": 77.5320163711, "y": 12.9599999984},
+      {"id": "Blr_Bst00023", "name": "Ramohalli Cross", "x": 77.5212830399, "y": 12.9067999985},
+      {"id": "Blr_Bst00024", "name": "Gerupalya", "x": 77.5400830259, "y": 12.9330499983},
+      {"id": "Blr_Bst00026", "name": "Beemanakuppe Cross", "x": 77.5460163622, "y": 12.9281833283},
+      {"id": "Blr_Bst00027", "name": "Mgm School", "x": 77.5433996938, "y": 12.9305999983},
+      {"id": "Blr_Bst00028", "name": "Kethohalli", "x": 77.5433996938, "y": 12.9305999983}
+    ]
+  },
+  {
+    "route": "12B",
+    "stops": [
+      {"id": "Blr_Bst000874", "name": "Kempegowda Bus Station", "x": 77.6380163044, "y": 13.0260299972},
+      {"id": "Blr_Bst00020", "name": "Town Hall", "x": 77.5189163787, "y": 12.9585166685},
+      {"id": "Blr_Bst00019", "name": "K.R Market", "x": 77.5119163831, "y": 12.9794666686},
+      {"id": "Blr_Bst00018", "name": "ChamarajapetMakkala Koota", "x": 77.570566347, "y": 12.921766668},
+      {"id": "Blr_Bst00017", "name": "Bangalore High School", "x": 77.5889829952, "y": 12.9168833278},
+      {"id": "Blr_Bst00016", "name": "Ramakrishna Ashrama", "x": 77.5968163267, "y": 12.9168499977},
+      {"id": "Blr_Bst00015", "name": "Gandhi Bazaar", "x": 77.6086663189, "y": 12.9164666643},
+      {"id": "Blr_Bst00014", "name": "Basavanagudi Police Station", "x": 77.5799996716, "y": 12.9541999979},
+      {"id": "Blr_Bst000102", "name": "Indira Nursing Home", "x": 77.5645830142, "y": 12.9291333314},
+      {"id": "Blr_Bst0002", "name": "Mini Zoo (KIMS Hospital)", "x": 77.5613163528, "y": 12.9264999981}
+    ]
+  },
+  {
+    "route": "317M",
+    "stops": [
+      {"id": "Blr_Bst0001", "name": "Arehalli", "x": 77.5585330176, "y": 12.9119333315},
+      {"id": "Blr_Bst0003", "name": "Matta Mallasandra", "x": 77.5772996727, "y": 12.9177333313},
+      {"id": "Blr_Bst0004", "name": "Medi Mallasandra", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst0005", "name": "Obalapura", "x": 77.5887163353, "y": 12.9169166678},
+      {"id": "Blr_Bst0006", "name": "Anugondanahalli Cross", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst0007", "name": "Dunnasandra Cross", "x": 77.6860829327, "y": 13.0055277744},
+      {"id": "Blr_Bst0009", "name": "Bhodana Hosahalli", "x": 77.6536996202, "y": 12.8691666671},
+      {"id": "Blr_Bst00010", "name": "Samethanahalli", "x": 77.5347830295, "y": 12.9646999984},
+      {"id": "Blr_Bst00011", "name": "thirumalashettyhalli Cross", "x": 77.6650662815, "y": 12.845449997},
+      {"id": "Blr_Bst00012", "name": "Channasandra", "x": 77.6708996073, "y": 12.8478138858},
+      {"id": "Blr_Bst00013", "name": "MVJ College", "x": 77.5498330211, "y": 12.9997833282},
+      {"id": "Blr_Bst00072", "name": "Hope Farm", "x": 77.7525495468, "y": 12.9839166657}
+    ]
+  },
+  {
+    "route": "401K",
+    "stops": [
+      {"id": "Blr_Bst000884", "name": "Bommanahalli", "x": 77.6283013088, "y": 12.9077416674},
+      {"id": "Blr_Bst000883", "name": "Central Silk Board", "x": 77.6242163117, "y": 12.9144833274},
+      {"id": "Blr_Bst000147", "name": "BTM Layout", "x": 77.6376829624, "y": 12.9158833273},
+      {"id": "Blr_Bst0008", "name": "BTM Water Tank", "x": 77.6041329852, "y": 12.9166833277},
+      {"id": "Blr_Bst0006", "name": "Jayanagara 9th East Circle", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst0005", "name": "Ragigudda", "x": 77.5887163353, "y": 12.9169166678},
+      {"id": "Blr_Bst0004", "name": "Jayanagara 5th Block", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst000872", "name": "Banashankari Bus Station", "x": 77.5518996884, "y": 12.9151999982},
+      {"id": "Blr_Bst000106", "name": "Kadirenahalli Cross", "x": 77.5672663489, "y": 12.913616668},
+      {"id": "Blr_Bst00089", "name": "Devegowda Petrol Bunk", "x": 77.5857663338, "y": 12.9109999979}
+    ]
+  },
+  {
+    "route": "225C",
+    "stops": [
+      {"id": "Blr_Bst00034", "name": "KR Market", "x": 77.5347830295, "y": 12.9646999984},
+      {"id": "Blr_Bst00024", "name": "Royan Circle", "x": 77.5400830259, "y": 12.9330499983},
+      {"id": "Blr_Bst00026", "name": "Sirsi Circle", "x": 77.5441996933, "y": 12.9297166683},
+      {"id": "Blr_Bst00027", "name": "Azad Nagar", "x": 77.5460163622, "y": 12.9281833283},
+      {"id": "Blr_Bst00028", "name": "Mysore Road Satellite Bus Stand", "x": 77.5433996938, "y": 12.9305999983},
+      {"id": "Blr_Bst00022", "name": "Bhel Gate", "x": 77.5367830314, "y": 12.949716665},
+      {"id": "Blr_Bst00030", "name": "Quality Biscuits", "x": 77.5291663725, "y": 12.9450333284},
+      {"id": "Blr_Bst00035", "name": "Nayandahalli", "x": 77.5285330329, "y": 12.9450666684},
+      {"id": "Blr_Bst000684", "name": "Bwssb Quarters", "x": 77.5235497057, "y": 12.9396833285},
+      {"id": "Blr_Bst00083", "name": "Rajarajeshwarinagara Gate", "x": 77.5183663754, "y": 12.9359499985}
+    ]
+  },
+  {
+    "route": "502H",
+    "stops": [
+      {"id": "Blr_Bst000903", "name": "ITPL", "x": 77.7021468084, "y": 12.9567499964},
+      {"id": "Blr_Bst000901", "name": "Vaidehi Hospital", "x": 77.6161563186, "y": 12.9893733275},
+      {"id": "Blr_Bst000893", "name": "Graphite India", "x": 77.641382964, "y": 12.9545333305},
+      {"id": "Blr_Bst000137", "name": "Mahadevapura", "x": 77.7015662536, "y": 12.9683499964},
+      {"id": "Blr_Bst0006", "name": "KR Puram Railway Station", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst000794", "name": "Tin Factory", "x": 77.6691996116, "y": 12.9970333268},
+      {"id": "Blr_Bst0004", "name": "Bennigana Halli", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst00032", "name": "NGEF", "x": 77.5093663809, "y": 12.9609666653},
+      {"id": "Blr_Bst000916", "name": "Halasur", "x": 77.6264546414, "y": 12.9759249974},
+      {"id": "Blr_Bst000738", "name": "Trinity Circle", "x": 77.6198163125, "y": 12.9725111086}
+    ]
+  },
+  {
+    "route": "290N",
+    "stops": [
+      {"id": "Blr_Bst000691", "name": "Kengeri TTMC", "x": 77.4839663977, "y": 12.9103666688},
+      {"id": "Blr_Bst00075", "name": "RV College", "x": 77.4992830494, "y": 12.9252499987},
+      {"id": "Blr_Bst00067", "name": "Jayaram Das Factory", "x": 77.5061830456, "y": 12.9310833286},
+      {"id": "Blr_Bst00068", "name": "Bangalore University Gate", "x": 77.5130663784, "y": 12.9355499986},
+      {"id": "Blr_Bst00083", "name": "Rajarajeshwarinagara Gate", "x": 77.5183663754, "y": 12.9359499985},
+      {"id": "Blr_Bst000684", "name": "Bwssb Quarters", "x": 77.5235497057, "y": 12.9396833285},
+      {"id": "Blr_Bst00035", "name": "Nayandahalli", "x": 77.5285330329, "y": 12.9450666684},
+      {"id": "Blr_Bst00030", "name": "Kwality Biscuits", "x": 77.5291663725, "y": 12.9450333284},
+      {"id": "Blr_Bst00022", "name": "Bhel Gate", "x": 77.5367830314, "y": 12.949716665},
+      {"id": "Blr_Bst00028", "name": "Mysore Road Satellite Bus Stand", "x": 77.5433996938, "y": 12.9305999983}
+    ]
+  },
+  {
+    "route": "77E",
+    "stops": [
+      {"id": "Blr_Bst000874", "name": "Kempegowda Bus Station", "x": 77.6380163044, "y": 13.0260299972},
+      {"id": "Blr_Bst00021", "name": "St.Marthas Hospital", "x": 77.5320163711, "y": 12.9599999984},
+      {"id": "Blr_Bst00020", "name": "Town Hall", "x": 77.5189163787, "y": 12.9585166685},
+      {"id": "Blr_Bst00019", "name": "K.R Market", "x": 77.5119163831, "y": 12.9794666686},
+      {"id": "Blr_Bst00018", "name": "ChamarajapetMakkala Koota", "x": 77.570566347, "y": 12.921766668},
+      {"id": "Blr_Bst00017", "name": "Bangalore High School", "x": 77.5889829952, "y": 12.9168833278},
+      {"id": "Blr_Bst00016", "name": "Ramakrishna Ashrama", "x": 77.5968163267, "y": 12.9168499977},
+      {"id": "Blr_Bst00015", "name": "Gandhi Bazaar", "x": 77.6086663189, "y": 12.9164666643},
+      {"id": "Blr_Bst00014", "name": "Basavanagudi Police Station", "x": 77.5799996716, "y": 12.9541999979},
+      {"id": "Blr_Bst00010", "name": "Thyagarajanagara", "x": 77.5347830295, "y": 12.9646999984}
+    ]
+  },
+  {
+    "route": "411",
+    "stops": [
+      {"id": "Blr_Bst000478", "name": "Jalahalli Cross", "x": 77.5178663806, "y": 13.0405166685},
+      {"id": "Blr_Bst00051", "name": "TVS Cross", "x": 77.7100162506, "y": 12.9772166663},
+      {"id": "Blr_Bst00050", "name": "Rolling Mill", "x": 77.7016662532, "y": 12.9567666631},
+      {"id": "Blr_Bst00049", "name": "NTTF", "x": 77.6968995899, "y": 12.9424499965},
+      {"id": "Blr_Bst00047", "name": "Brundavana Peenya 2nd Stage", "x": 77.6954162609, "y": 12.9395333265},
+      {"id": "Blr_Bst00046", "name": "Rajagopalanagar Rajni Farms", "x": 77.6847329288, "y": 12.9297666667},
+      {"id": "Blr_Bst00042", "name": "Hegganahalli", "x": 77.5142997127, "y": 13.0425833285},
+      {"id": "Blr_Bst00039", "name": "Sunkadakatte", "x": 77.544016365, "y": 13.0264333282},
+      {"id": "Blr_Bst00036", "name": "Summanahalli", "x": 77.5911996654, "y": 13.0090666678},
+      {"id": "Blr_Bst000113", "name": "Kamakshipalya", "x": 77.5543996885, "y": 13.0130666681}
+    ]
+  },
+  {
+    "route": "248",
+    "stops": [
+      {"id": "Blr_Bst000872", "name": "Banashankari Bus Station", "x": 77.5518996884, "y": 12.9151999982},
+      {"id": "Blr_Bst0003", "name": "Sangam Circle", "x": 77.5772996727, "y": 12.9177333313},
+      {"id": "Blr_Bst0004", "name": "Jayanagara 5th Block", "x": 77.5836329986, "y": 12.9172666679},
+      {"id": "Blr_Bst0005", "name": "Marenahalli Petrol Bunk", "x": 77.5887163353, "y": 12.9169166678},
+      {"id": "Blr_Bst0006", "name": "Jayanagara 9th East Circle", "x": 77.5968163301, "y": 12.9168499977},
+      {"id": "Blr_Bst000103", "name": "Mico Layout", "x": 77.604449655, "y": 12.9165999976},
+      {"id": "Blr_Bst0008", "name": "BTM Water Tank", "x": 77.6041329852, "y": 12.9166833277},
+      {"id": "Blr_Bst000147", "name": "BTM Layout", "x": 77.6376829624, "y": 12.9158833273},
+      {"id": "Blr_Bst000883", "name": "Central Silk Board", "x": 77.6242163117, "y": 12.9144833274},
+      {"id": "Blr_Bst000884", "name": "Bommanahalli", "x": 77.6283013088, "y": 12.9077416674}
+    ]
+  },
+  {
+    "route": "600KA",
+    "stops": [
+      {"id": "Blr_Bst00028", "name": "Kethohalli", "x": 77.5433996938, "y": 12.9305999983},
+      {"id": "Blr_Bst00027", "name": "Mgm School", "x": 77.5433996938, "y": 12.9305999983},
+      {"id": "Blr_Bst00026", "name": "Beemanakuppe Cross", "x": 77.5460163622, "y": 12.9281833283},
+      {"id": "Blr_Bst00024", "name": "Gerupalya", "x": 77.5400830259, "y": 12.9330499983},
+      {"id": "Blr_Bst00023", "name": "Ramohalli Cross", "x": 77.5212830399, "y": 12.9067999985},
+      {"id": "Blr_Bst00021", "name": "Anche Palya", "x": 77.5320163711, "y": 12.9599999984},
+      {"id": "Blr_Bst00019", "name": "Rajarajeshwari Medical College", "x": 77.5119163831, "y": 12.9794666686},
+      {"id": "Blr_Bst000186", "name": "Nice Road toll Kengeri", "x": 77.5881996644, "y": 12.8462333312},
+      {"id": "Blr_Bst00017", "name": "Kengeri Police Station", "x": 77.5889829952, "y": 12.9168833278},
+      {"id": "Blr_Bst000691", "name": "Kengeri TTMC", "x": 77.4839663977, "y": 12.9103666688}
+    ]
+  }
+]
